@@ -45,9 +45,6 @@ Industrial IT & Automation Engineering · <strong>INSAT, Tunisia</strong>
 <hr style="border: 0.5px solid #1a2634;"/>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waelznagui&show_icons=true&theme=dark&hide_border=true&title_color=4A9EFF&icon_color=4A9EFF&text_color=8899aa" alt="GitHub Stats" />
-</p>
 
 
 
